@@ -18,11 +18,11 @@ Hi there! I'm **Arden**, a chemistry graduate transitioning into the exciting wo
 
 MTtranslator is a lightweight, custom-built machine translation tool designed for real-time translation using advanced NLP models.
 
-###### 🔍 Why I Built It
+#### 🔍 Why I Built It
 
 As a non-native English speaker, I search for a free, real-time translation application to help me better understand English-speaking courses. While many tools are available, most are subscription-based. Inspired by Windows' Live Captions for speech-to-text, I envisioned creating a simple tool to translate captions in real-time. MTtranslator reflects my commitment to practical and accessible intelligent system solutions.
 
-###### 🦑 Key Features
+#### 🦑 Key Features
 
 - **Optimized Performance**: Designed for systems with limited hardware (e.g., AMD 8845H with 32GB RAM) by leveraging lightweight NLP models for fast and reliable translations.
   
