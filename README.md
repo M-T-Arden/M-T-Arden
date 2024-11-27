@@ -6,11 +6,11 @@ Hi there! I'm **Arden**, a chemistry graduate transitioning into the exciting wo
 
 🎓 **Academic Background**: With a solid foundation in electrochemistry and materials science, I've gained a strong understanding of problem-solving and experimental methodologies.
 
-💻 **Tech Journey**: I started learning programming with C language and quickly became fascinated by embedded systems, intelligent robotics, and IoT. Now, I'm diving into computer science to build cutting-edge solutions for the future.
+💻 **Tech Journey**: I am sharing my learning blogs and coding practice in both [Github](https://github.com/M-T-Arden/blog) and [CNblog](https://www.cnblogs.com/m-t-arden)
 
 ### 🛠️ Core Skills:
 
-**Programming:** C, Python, basic Java, and database.
+**Programming:** C, Python, basic Java and database.
 
 **Soft skills:** Experienced in leveraging AI tools to boost productivity and solve complex problems.
 
